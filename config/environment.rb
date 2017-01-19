@@ -10,7 +10,10 @@ require 'rubygems'
 
 require 'uri'
 require 'pathname'
+
+require 'json'
 require 'dotenv'
+require 'unirest'
 
 require 'pg'
 require 'active_record'

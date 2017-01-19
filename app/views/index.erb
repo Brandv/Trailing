@@ -1,12 +1,17 @@
 <div class="container">
   <h1>Welcome to Trailing</h1>
+
   <form action='/trails' method='post'>
-    <label for='location'></label>
-    <input type='text' name='location' id='location'>
-    <label for='activity'></label>
-    <input type='text' name='activity' id='activity'>
-    <label for='range'></label>
+    <label for='city'>City</label>
+    <input type='text' name='city' id='city'><br>
+    <label for='state'>State</label>
+    <input type='text' name='state' id='state'><br>
+    <label for='activity'>Activity</label>
+    <input type='text' name='activity' value='hiking' id='activity'><br>
+    <label for='range'>Range</label>
     <input type='text' name='range' id='range'>
+    <label for='range'>(in miles)</label><br><br>
+    <input type='submit' value='Find My Solitude' id='btn-submit'>
   </form>
 
 </div>

@@ -4,6 +4,17 @@
   padding: 0px 20px 20px 20px;
   border: 1px dotted black;
 }
-th {
+
+label {
+  display: inline-block;
+  width: 70px;
   text-align: left;
+  margin-right: -10px;
+}​
+
+
+
+#btn-submit {
+  position: relative;
+  left: 60px;
 }

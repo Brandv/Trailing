@@ -18,7 +18,9 @@ gem 'rake'
 
 gem 'shotgun'
 
+# Used for API work??
 gem 'dotenv'
+gem 'unirest'
 
 group :test do
   gem 'faker'
