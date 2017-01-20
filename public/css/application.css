@@ -6,7 +6,8 @@
 
 label {
   display: inline-block;
-  text-align: right;
+  text-align: left;
+  width: 60px;
 }
 
 h1 {
@@ -29,13 +30,12 @@ li {
 #miles {
   display: inline-block;
   position: relative;
-  left: 35px;
+  width: 80px;
 }
 
 .field {
   display: inline-block;
-  position: relative;
-  left: 30px;
+
 }
 
 button {
@@ -67,4 +67,15 @@ a {
   font: bold 1.5em helvetica;
   color: green;
   text-decoration: none;
+}
+
+input {
+  display: block;
+  margin-bottom: 7px;
+  padding: 3px;
+  width: 250px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid black;
+  color: #a54422;
+  border-radius: 5px;
 }

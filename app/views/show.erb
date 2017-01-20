@@ -1,7 +1,7 @@
 <div class="container ">
   <h1><%= @activity.capitalize %> Locations:</h1>
 
-  <% if @places == [] %>
+  <% if @places != [] %>
   <% p @places.body %>
     <% @places.body['places'].each do |place| %>
       <h2><%= place['name'] %> </h2>
@@ -10,6 +10,6 @@
       </ul>
     <% end %>
   <% else  %>
-    <p>Nothing here :(. Maybe plant a tree?</p>
+    <p>Nothing here :( Maybe plant a tree?</p>
   <% end %>
 </div>
