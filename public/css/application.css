@@ -1,9 +1,70 @@
 .container {
   margin: 20px auto;
-  width: 600px;
+  width: 900px;
   padding: 0px 20px 20px 20px;
-  border: 1px dotted black;
 }
-th {
-  text-align: left;
+
+label {
+  display: inline-block;
+  text-align: right;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+  text-decoration: underline ;
+  color: #CC7700;
+}
+
+h2 {
+  color: #017933;
+  margin: -5px 0px;
+  padding: -5px 0px;
+}
+
+li {
+  padding-bottom: 20px;
+}
+
+#miles {
+  display: inline-block;
+  position: relative;
+  left: 35px;
+}
+
+.field {
+  display: inline-block;
+  position: relative;
+  left: 30px;
+}
+
+button {
+  margin: 5px;
+  border-radius: 6px;
+  background-color: white;
+  border-color: white;
+  outline-style: none;
+  border-style: none;
+}
+
+#btn-submit {
+
+  border-radius: 2px;
+  background-color: forestgreen;
+  border-color: white;
+  outline-style: none;
+  border-style: none;
+  color: white;
+}
+
+button:hover {
+  box-shadow: 4px 4px 4px forestgreen;
+  border-radius: 6px;
+
+}
+
+a {
+  font: bold 1.5em helvetica;
+  color: green;
+  text-decoration: none;
 }

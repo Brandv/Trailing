@@ -18,7 +18,7 @@ gem 'rake'
 
 gem 'shotgun'
 
-# Used for API work??
+# Used for API work?
 gem 'dotenv'
 gem 'unirest'
 
