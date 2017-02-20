@@ -6,8 +6,8 @@ Trailing is a local app that uses the TrailAPI retrieve all of the parks and/or 
 
 ###Home:
 
-<img src="https://i.imgsafe.org/b6fc09f2e8.png">
+<a href="http://tinypic.com?ref=nl1w0y" target="_blank"><img src="http://i66.tinypic.com/nl1w0y.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 ###Results:
 
-<img src="https://i.imgsafe.org/b6ff847cf1.png">
+<a href="http://tinypic.com?ref=2jblfo9" target="_blank"><img src="http://i64.tinypic.com/2jblfo9.png" border="0" alt="Image and video hosting by TinyPic"></a>
